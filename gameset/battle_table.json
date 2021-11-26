@@ -1,0 +1,10 @@
+{
+	"Wizard":{"Goblin":true, "Troll":false, "Ghost":true, "Witch":"random", "Man":true, "Gnome":false, "Wizard":"random", "Wolf":true},
+	"Man":{"Goblin":true, "Troll":true, "Ghost":false, "Witch":false, "Man":"random", "Gnome":true, "Wizard":false, "Wolf":true},
+	"Gnome":{"Goblin":true, "Troll":false, "Ghost":false, "Witch":true, "Man":false, "Gnome":"random", "Wizard":true, "Wolf":false},
+	"Goblin":{"Man":false, "Gnome":false, "Wizard":false},
+	"Troll":{"Man":false, "Gnome":true, "Wizard":true},
+	"Ghost":{"Man":true, "Gnome":true, "Wizard":false},
+	"Witch":{"Man":true, "Gnome":false, "Wizard":"random"},
+	"Wolf":{"Man":false, "Gnome":true, "Wizard":false}
+}

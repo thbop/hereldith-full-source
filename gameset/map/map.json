@@ -1,0 +1,53 @@
+{
+	"towns":{
+		"Elthresdorr":{
+			"shops":{
+				"Knives":"knife.json"
+			},
+			"roads":{
+				"Wvack":{"danger":9},
+				"Belingdum":{"danger":1}
+			}
+		},
+		"Wvack":{
+			"shops":{},
+			"roads":{
+				"Elthresdorr":{"danger":9},
+				"Lador":{"danger":4}
+			}
+		},
+		"Lador":{
+			"shops":{
+				"Regrimage":"regrimage.json"
+			},
+			"roads":{
+				"Wvack":{"danger":4}
+			}
+		},
+		"Belingdum":{
+			"shops":{
+				"Healer":"healer.json"
+			},
+			"roads":{
+				"Elthresdorr":{"danger":1}
+			}
+		},
+
+		"Reardurith":{
+			"shops":{
+				"Black Temple":"blacktemple.json"
+			},
+			"roads":{
+				"Enggrumd":{"danger":100}
+			}
+		},
+		"Enggrumd":{
+			"shops":{},
+			"roads":{
+				"Reardurith":{"danger":100},
+				"Belingdum":{"danger":10}
+			}
+		}
+
+	}
+}

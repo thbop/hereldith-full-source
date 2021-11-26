@@ -1,0 +1,5 @@
+{
+	"name":"Little Knife",
+	"execute":"add:skill 1",
+	"lore":"A lil' swiftness to your attacks, adds +1 skill."
+}

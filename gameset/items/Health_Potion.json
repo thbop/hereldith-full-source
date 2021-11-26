@@ -1,0 +1,5 @@
+{
+	"name":"Health Potion",
+	"execute":"add:health 5",
+	"lore":"Increases health +5, very helpful in battle!"
+}

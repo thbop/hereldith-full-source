@@ -1,0 +1,5 @@
+{
+	"name":"Golden Heart",
+	"execute":"add:health 25",
+	"lore":"Some sweet juice, +25 health"
+}

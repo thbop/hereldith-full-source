@@ -1,0 +1,12 @@
+{
+	"Health Potion":{
+		"roll":3,
+		"amount":2,
+		"item":"Health Potion"
+	},
+	"Black Dagger":{
+		"roll":4,
+		"amount":1,
+		"item":"Black Dagger"
+	}
+}

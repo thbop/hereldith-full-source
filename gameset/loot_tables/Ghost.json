@@ -1,0 +1,12 @@
+{
+	"Gray Powder":{
+		"roll":1,
+		"amount":2,
+		"item":"Gray Powder"
+	},
+	"Golden Heart":{
+		"roll":10,
+		"amount":1,
+		"item":"Golden Heart"
+	}
+}

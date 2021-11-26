@@ -1,0 +1,17 @@
+{
+	"Little Knife":{
+		"roll":1,
+		"amount":2,
+		"item":"Little Knife"
+	},
+	"Black Dagger":{
+		"roll":6,
+		"amount":1,
+		"item":"Black Dagger"
+	},
+	"Bow Of Fortune":{
+		"roll":10,
+		"amount":1,
+		"item":"Bow Of Fortune"
+	}
+}

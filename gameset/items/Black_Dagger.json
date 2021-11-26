@@ -1,0 +1,5 @@
+{
+	"name":"Black Dagger",
+	"execute":"add:skill 2",
+	"lore":"Makes your attacks more deadly, adds +2 skill."
+}

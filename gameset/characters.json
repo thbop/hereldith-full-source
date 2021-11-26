@@ -1,0 +1,4 @@
+{
+	"player":["Man", "Wizard", "Gnome"],
+	"CPU":["Goblin", "Troll", "Ghost", "Witch", "Wolf"]
+}

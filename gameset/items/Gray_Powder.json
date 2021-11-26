@@ -1,0 +1,5 @@
+{
+	"name":"Gray Powder",
+	"execute":"add:health -3",
+	"lore":"Does something..."
+}

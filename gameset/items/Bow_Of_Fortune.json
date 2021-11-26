@@ -1,0 +1,5 @@
+{
+	"name":"Bow Of Fortune",
+	"execute":"add:skill 3",
+	"lore":"Should add some range to your attacks, adds +3 skill."
+}
