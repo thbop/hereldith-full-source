@@ -6,7 +6,7 @@ keyboard.press_and_release('f11') to enter full screen....
 
 On with the game:
 	Hereldith currently doesn't have much player help with the "controls". That is
-	the second perpose of this file. First of all, if you ever want to quit quickly
+	the second purpose of this file. First of all, if you ever want to quit quickly
 	just use to keybind: CTRL+c. (NOTE: If you have text highlighted it will instead
 	of quitting, copy the highlighted text to your clipboard.)
 
